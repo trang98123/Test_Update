@@ -1,0 +1,8 @@
+[INFO ] [2021-10-04 01:53:23,198] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:53:23,200] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:53:23,237] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:53:27,354] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:53:29,867] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:53:30,230] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:53:48,935] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:53:49,195] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button

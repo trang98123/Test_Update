@@ -1,0 +1,96 @@
+[INFO ] [2021-10-04 00:54:11,762] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 00:54:11,766] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 00:54:11,820] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 00:54:16,584] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 00:54:21,910] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 00:54:22,340] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 00:54:35,941] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 04: Sort ACD
+[INFO ] [2021-10-04 00:58:28,254] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 00:58:28,258] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 00:58:28,298] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 00:58:32,520] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 00:58:39,375] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 00:58:39,792] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 00:58:54,687] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 04: Sort ACD
+[INFO ] [2021-10-04 00:58:55,300]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-10-04 00:58:55,345] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 05: Verify Value Displayed
+[INFO ] [2021-10-04 00:58:55,485]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-04 01:07:52,445] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:07:52,447] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:07:52,480] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:07:56,700] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:08:13,843] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:08:14,304] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:08:25,454] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 04: Sort ACDStep 04: Sort ACD
+[INFO ] [2021-10-04 01:08:25,979]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-10-04 01:08:25,984] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 05: Verify Value Displayed
+[INFO ] [2021-10-04 01:08:26,090]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-04 01:15:24,635] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:15:24,637] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:15:24,674] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:15:28,942] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:16:03,726] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:16:03,729] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:16:03,761] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:16:07,671] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:16:25,645] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:16:25,972] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:16:37,184] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 04: Sort ACDStep 04: Sort ACD
+[INFO ] [2021-10-04 01:16:37,725]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-04 01:16:37,728] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 05: Verify Value Displayed
+[INFO ] [2021-10-04 01:16:37,792]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-04 01:22:32,198] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:22:32,200] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:22:32,237] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:22:36,613] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:22:49,598] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:22:50,312] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:23:01,811] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 04: Sort ACDStep 04: Sort ACD
+[INFO ] [2021-10-04 01:23:02,232]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-10-04 01:23:02,248] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 05: Verify Value Displayed
+[INFO ] [2021-10-04 01:23:02,384]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-10-04 01:32:13,235] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:32:13,237] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:32:13,276] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:32:17,951] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:32:20,701] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:32:21,114] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:32:41,699] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:32:41,963] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:37:42,606] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:37:42,609] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:38:19,836] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:38:19,838] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:38:19,878] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:38:24,601] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:38:27,339] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:38:28,130] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:38:47,509] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:38:47,801] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:47:21,614] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:47:21,617] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:47:40,314] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:47:40,316] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:47:40,355] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:47:45,063] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:47:47,768] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:47:48,141] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:48:08,947] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:48:09,208] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:52:00,484] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:52:00,487] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:52:14,217] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:52:14,219] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:52:14,255] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:52:18,770] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:52:21,726] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:52:22,300] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:52:43,821] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:53:23,198] --------------START delete file in folder -----------
+[INFO ] [2021-10-04 01:53:23,200] --------------END delete file in folder -----------
+[INFO ] [2021-10-04 01:53:23,237] Pre-Condition: Open browserchrome
+[INFO ] [2021-10-04 01:53:27,354] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-10-04 01:53:29,867] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:53:30,230] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-10-04 01:53:48,935] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-10-04 01:53:49,195] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button

@@ -1,0 +1,1 @@
+{"uuid":"806c15c8-19ac-4c23-8536-5c6abf139f18","name":"sotatek","children":["cb55d569-bc5e-4ecd-9ee2-559b3e507cc5"],"befores":[],"afters":[{"name":"clearnExcutableDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1633285972400,"stop":1633285972400}],"links":[],"start":1633285933167,"stop":1633285972402}

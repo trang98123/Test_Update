@@ -1,0 +1,1 @@
+{"uuid":"57157c86-03c2-430b-9309-aa0f166d8f23","name":"sotatek.hybird.web.TC_01_Search","children":["7438caac-d461-4494-ac6e-45b4de060e12"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1633283908298,"stop":1633283912313}],"afters":[],"links":[],"start":1633283908184,"stop":1633283935988}
